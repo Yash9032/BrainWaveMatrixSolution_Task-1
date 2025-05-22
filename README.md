@@ -10,4 +10,5 @@ Showing Revenu Trend using line chart to analysis, when revenue more generated a
 Top 5 Customer by Revenue Using clustered column chart
 Top 3 products by Revenue.
 Profit by Sub-Category.
+![dashboard-2](https://github.com/user-attachments/assets/1dbabc26-3731-46bf-a57e-02f70a2730f2)
 
