@@ -47,7 +47,7 @@ Analyze city-level sales concentration
 
 Support geo-targeted business decisions
 
-#Advanced Tooltip - California State Insight (Power BI)
+# Advanced Tooltip - California State Insight (Power BI)
 
 ![Map-2](https://github.com/user-attachments/assets/2a7923dc-f4b7-40c8-8588-6f1951f25580)
 
