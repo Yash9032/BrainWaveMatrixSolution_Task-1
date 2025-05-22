@@ -8,5 +8,6 @@ Orders: 9,994
 Quantity:38k
 Showing Revenu Trend using line chart to analysis, when revenue more generated and how we can increase in future.
 Top 5 Customer by Revenue Using clustered column chart
-Top 3 products by Revenue
-Profit by Sub-Category 
+Top 3 products by Revenue.
+Profit by Sub-Category.
+
