@@ -46,3 +46,36 @@ Identify high-value markets
 Analyze city-level sales concentration
 
 Support geo-targeted business decisions
+
+#Advanced Tooltip - California State Insight (Power BI)
+
+![Map-2](https://github.com/user-attachments/assets/2a7923dc-f4b7-40c8-8588-6f1951f25580)
+
+
+This screenshot demonstrates the interactive tooltip feature applied to the map visual for California in the Power BI Sales Dashboard.
+
+# Tooltip Features:
+
+Dynamic metrics displayed on hover:
+
+Revenue: 2.30M
+
+Profit & Loss: 379K
+
+Orders: 2,001
+
+Quantity Sold: 7,667
+
+Mini line chart showing Revenue trend over time (2010–2015)
+
+Tooltip filters and reacts based on the selected State, City, Region, and Metric Field
+
+Seamless integration with main visual layer for enhanced UX
+
+# Use Cases:
+
+Instant drill-through insights
+
+Fast comparison across states without changing main visuals
+
+Enables decision-makers to grasp trends and figures quickly
