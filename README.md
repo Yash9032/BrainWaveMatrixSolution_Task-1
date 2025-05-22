@@ -16,3 +16,33 @@ Profit by Sub-Category.
 # Custom Tooltip
 ![dashboard-2](https://github.com/user-attachments/assets/1dbabc26-3731-46bf-a57e-02f70a2730f2)
 
+# Map
+
+![Map-1](https://github.com/user-attachments/assets/8526a796-eb99-4d22-8ce0-fa15c1c7d113)
+
+This page of the Power BI report provides a geographical analysis of sales performance across U.S. states, cities, and regions. It allows users to filter and interact with the dataset to explore sales patterns by location and metric type.
+
+# Page Highlights:
+
+Interactive Map Visual powered by Bing Maps displaying revenue bubbles for each state
+
+Filters for:
+City, State, Region
+
+Metric Fields: Revenue, Profit, Orders, Sold Quantity
+
+Supporting visuals:
+Bar charts for Revenue by State
+
+Revenue summaries by City and Region
+Dynamic label: "Selected State" updates with slicer input
+
+# Use Cases:
+
+Understand regional performance trends
+
+Identify high-value markets
+
+Analyze city-level sales concentration
+
+Support geo-targeted business decisions
